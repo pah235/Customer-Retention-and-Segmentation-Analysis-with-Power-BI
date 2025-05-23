@@ -100,7 +100,7 @@ The Head of Customer Service sought to classify the customer base using an R-F-M
 
 ---
 
-## 📈 C. Project Deliverables
+## 📈 D. Project Deliverables
 
 ### 🔹 Key Insights from Customer Retention Analysis (Dec 2009)
 - New Customer Count by Day Matrix: Observing December 5, 2009, Contoso's online stores acquired 373 new customers. However, on the following day, only 6 of them continued to interact and make purchases. When reviewing the overall chart, it is evident that this day marked the most significant loss of newly acquired customers as days passed.
