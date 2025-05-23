@@ -106,7 +106,6 @@ The Head of Customer Service sought to classify the customer base using an R-F-M
 ### 🔹 Key Insights from Customer Retention Analysis (Dec 2009)
 - New Customer Count by Day Matrix: Observing December 5, 2009, Contoso's online stores acquired 373 new customers. However, on the following day, only 6 of them continued to interact and make purchases. When reviewing the overall chart, it is evident that this day marked the most significant loss of newly acquired customers as days passed.
 - Customers Coming Back in % by Day Matrix: The most prominent days for customer retention were the 2nd and 3rd days. These days are crucial for customer retention, as after these two days, a continuous decline in customer engagement was observed. From this insight, the customer service department can begin to address the underlying reasons for this trend and implement new measures to prevent it.
-Customer Segmentation Analysis (RFM):
 ### 🔹 Key Insights from Customer Segmentation (RFM)
 - Analyzing the RFM scores, the highest Monetary score (3.37) indicates that the average customer spends quite well. However, the lowest Recency score (2.89) suggests a need to actively encourage customers to make new purchases.
 
