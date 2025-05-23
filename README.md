@@ -3,13 +3,11 @@
 **Project Overview**
 This portfolio project showcases a comprehensive Customer Retention Analysis and Customer Segmentation Analysis using Power BI. It leverages a robust data warehouse to provide actionable insights for improving customer loyalty and optimizing marketing strategies.
 
-<img width="655" alt="image" src="https://github.com/user-attachments/assets/96c09294-4273-4901-bdc4-e9d4b87a147f" />
+![image](https://github.com/user-attachments/assets/96c09294-4273-4901-bdc4-e9d4b87a147f)
 
 ---
-You can access the visualization PDFs of Power BI report here: 
-👉 [PDF Customer Retention & Segmentation Analysis Report](https://your-dashboard-link.com)
-You can access the interactive Power BI report here:  
-👉 [Customer Retention & Segmentation Analysis Report](https://your-dashboard-link.com)
+👉 You can access the visualization PDFs of Power BI report [here](https://your-dashboard-link.com)
+👉 You can access the interactive Power BI report [here](https://your-dashboard-link.com)
 
 ## 🧰 A. Key Project Information
 
@@ -89,7 +87,7 @@ The Head of Customer Service sought to classify the customer base using an R-F-M
 - Connected Power BI to the SQL database
 - Used **Power Query** for data cleaning and transformation.
 - Built the **data model** linking facts and dimensions.
-  <img width="356" alt="image" src="https://github.com/user-attachments/assets/5bbe6368-5124-4d85-a8a6-f865831658b2" />
+  ![image](https://github.com/user-attachments/assets/5bbe6368-5124-4d85-a8a6-f865831658b2)
 
 ### 3. Data Visualization & Dashboard Design
 - Developed pages for:
