@@ -2,6 +2,7 @@
 
 **Project Overview**
 This portfolio project showcases a comprehensive Customer Retention Analysis and Customer Segmentation Analysis using Power BI. It leverages a robust data warehouse to provide actionable insights for improving customer loyalty and optimizing marketing strategies.
+
 <img width="655" alt="image" src="https://github.com/user-attachments/assets/96c09294-4273-4901-bdc4-e9d4b87a147f" />
 
 ---
