@@ -12,21 +12,20 @@ You can access the interactive Power BI report here:
 ## 🧰 A. Key Project Information
 
 ### 1. Tools & Skills Used
-Power Query: Applied extensive knowledge of Power Query for efficient data transformation, cleaning, and preparation.
-Data Modeling: Utilized advanced data modeling techniques to create a suitable and optimized data model for analysis.
-DAX (Data Analysis Expressions): Developed complex DAX measures and calculated columns to derive key performance indicators (KPIs) and metrics.
-Data Visualization: Designed and implemented appropriate chart types and visuals to effectively present analytical insights.
-Report Interactivity: Incorporated essential report functionalities such as Drill-down, Tooltips Page, Drill-through, Buttons, Bookmarks, and Parameter utilization to enhance user experience.
-Report Design: Created a complete and polished report layout suitable for presentation and stakeholder communication.
+- Power Query: Applied extensive knowledge of Power Query for efficient data transformation, cleaning, and preparation.
+- Data Modeling: Utilized advanced data modeling techniques to create a suitable and optimized data model for analysis.
+- DAX (Data Analysis Expressions): Developed complex DAX measures and calculated columns to derive key performance indicators (KPIs) and metrics.
+- Data Visualization: Designed and implemented appropriate chart types and visuals to effectively present analytical insights.
+- Report Interactivity: Incorporated essential report functionalities such as Drill-down, Tooltips Page, Drill-through, Buttons, Bookmarks, and Parameter utilization to enhance user experience.
+- Report Design: Created a complete and polished report layout suitable for presentation and stakeholder communication.
 
 ### 2. Project Introduction
 This project is built upon a comprehensive Data Warehouse that captures the entire business process, from raw material procurement and manufacturing to sales.
 
 #### a) About the Company: Contoso Corporation
 Contoso Corporation is a multinational enterprise headquartered in Paris. It operates as a manufacturing, sales, and support organization, offering over 100,000 products. Contoso sells through two primary channels:
-
-Store (Physical Retail): Direct sales at brick-and-mortar retail locations.
-Online (E-commerce): Sales via website or e-commerce platforms.
+- Store (Physical Retail): Direct sales at brick-and-mortar retail locations.
+- Online (E-commerce): Sales via website or e-commerce platforms.
 Contoso primarily operates in the consumer electronics and accessories retail sector, including: Laptops, Desktops, Game Consoles, Mobile Phones, Accessories, Software, TVs & Media Devices.
 
 #### b) Company Data Description: ContosoRetailDW
@@ -88,6 +87,8 @@ The Head of Customer Service sought to classify the customer base using an R-F-M
 - Connected Power BI to the SQL database
 - Used **Power Query** for data cleaning and transformation.
 - Built the **data model** linking facts and dimensions.
+  <img width="356" alt="image" src="https://github.com/user-attachments/assets/5bbe6368-5124-4d85-a8a6-f865831658b2" />
+
 ### 3. Data Visualization & Dashboard Design
 - Developed pages for:
   - Customer Retention (Cohort Analysis)
@@ -102,11 +103,11 @@ The Head of Customer Service sought to classify the customer base using an R-F-M
 ## 📈 C. Project Deliverables
 
 ### 🔹 Key Insights from Customer Retention Analysis (Dec 2009)
-New Customer Count by Day Matrix: Observing December 5, 2009, Contoso's online stores acquired 373 new customers. However, on the following day, only 6 of them continued to interact and make purchases. When reviewing the overall chart, it is evident that this day marked the most significant loss of newly acquired customers as days passed.
-Customers Coming Back in % by Day Matrix: The most prominent days for customer retention were the 2nd and 3rd days. These days are crucial for customer retention, as after these two days, a continuous decline in customer engagement was observed. From this insight, the customer service department can begin to address the underlying reasons for this trend and implement new measures to prevent it.
+- New Customer Count by Day Matrix: Observing December 5, 2009, Contoso's online stores acquired 373 new customers. However, on the following day, only 6 of them continued to interact and make purchases. When reviewing the overall chart, it is evident that this day marked the most significant loss of newly acquired customers as days passed.
+- Customers Coming Back in % by Day Matrix: The most prominent days for customer retention were the 2nd and 3rd days. These days are crucial for customer retention, as after these two days, a continuous decline in customer engagement was observed. From this insight, the customer service department can begin to address the underlying reasons for this trend and implement new measures to prevent it.
 Customer Segmentation Analysis (RFM):
 ### 🔹 Key Insights from Customer Segmentation (RFM)
-Analyzing the RFM scores, the highest Monetary score (3.37) indicates that the average customer spends quite well. However, the lowest Recency score (2.89) suggests a need to actively encourage customers to make new purchases.
+- Analyzing the RFM scores, the highest Monetary score (3.37) indicates that the average customer spends quite well. However, the lowest Recency score (2.89) suggests a need to actively encourage customers to make new purchases.
 
 ---
 
