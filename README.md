@@ -6,8 +6,8 @@ This portfolio project showcases a comprehensive Customer Retention Analysis and
 ![image](https://github.com/user-attachments/assets/96c09294-4273-4901-bdc4-e9d4b87a147f)
 
 ---
-👉 You can access the visualization PDFs of Power BI report [here](https://your-dashboard-link.com)
-👉 You can access the interactive Power BI report [here](https://your-dashboard-link.com)
+-👉 **You can access the visualization PDFs of Power BI report [here]**(https://github.com/pah235/Customer-Retention-and-Segmentation-Analysis-with-Power-BI/blob/main/Customer%20Retention%20and%20Segmentation%20Analysis%20Report.pdf)
+-👉 **You can access the interactive Power BI report [here]**(https://your-dashboard-link.com)
 
 ## 🧰 A. Key Project Information
 
@@ -30,7 +30,7 @@ Contoso primarily operates in the consumer electronics and accessories retail se
 
 #### b) Company Data Description: ContosoRetailDW
 ContosoRetailDW (Contoso Retail Data Warehouse) is the centralized data warehouse for Contoso Corporation, provided by Microsoft, contains historical data on sales, inventory, promotions, and customers.
-**Source:** Microsoft
+**Source:** [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 **Key Components of ContosoRetailDW:**
 #### 🔹 Fact Tables
 | Table | Description |
